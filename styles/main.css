@@ -124,18 +124,18 @@ ul{
     font-size: 30px;
     margin-bottom: 150px;
 }
-.services{
+.service{
     /* background-color: rgb(179, 172, 172); */
     display: flex;
     justify-content: space-between;
 }
-.services img{
+.service img{
     height: 60px;
     position: absolute;
     top: 100px;
     /* left: 0; */
 }
-.services li{
+.service li{
     /* display: flexbox; */
     /* display: inline; */
     /* float: left; */
@@ -194,7 +194,7 @@ b{
 .client{
     text-align: center;
 }
-#footer_widget{
+.footer_widget{
     display: flex;
     color: white;
     background-color: rgb(44, 42, 42);
@@ -203,11 +203,11 @@ b{
     line-height: 30px;
     font-size: 20px;
 }
-#footer_widget img{
+.footer_widget img{
 height: 20px;
 margin-left: 0;
 }
-#footer_widget div{
+.footer_widget div{
     width: 17%;
     text-align: left;
 
